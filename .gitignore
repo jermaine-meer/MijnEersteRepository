@@ -1,5 +1,5 @@
+nano /workspaces/MijnEersteRepository/.gitignore
 # Ignore build directories
 build/
 qt-everywhere-opensource-src-6.5.4.tar.xz
 qt-everywhere-src-6.5.4/
-nano /workspaces/MijnEersteRepository/.gitignore
