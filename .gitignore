@@ -1,2 +1,4 @@
-qt-everywhere-opensource-src-5.15.13.tar.xz
-qt-everywhere-src-5.15.13/
+# Ignore build directories
+build/
+qt-everywhere-opensource-src-6.5.4.tar.xz
+qt-everywhere-src-6.5.4/
